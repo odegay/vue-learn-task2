@@ -1,0 +1,1 @@
+json-server --watch C:\Users\Oleg_Degay\Documents\JSR_VUE_TRAINING\TASK1\src\Data\UsersList\userslist.json

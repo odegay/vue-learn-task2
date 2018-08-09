@@ -1,4 +1,4 @@
-# hello-world
+# vue-learn-task2
 
 ## Project setup
 ```

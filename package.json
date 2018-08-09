@@ -1,13 +1,17 @@
 {
-  "name": "hello-world",
-  "version": "0.1.0",
+  "name": "vue-learn-task2",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "dbrun": "json-server --watch C:\\Users\\Oleg_Degay\\Documents\\JSR_VUE_TRAINING\\TASK2\\vue-learn-task2\\src\\DB\\UsersList\\userslist.json"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1"
   },
